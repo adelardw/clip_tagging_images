@@ -1,0 +1,5 @@
+
+## For Download Models Use:
+
+vision model: https://drive.google.com/file/d/1IKPypCJ9l0XyQiC-DYRLCzQn9twBUYMr/view?usp=drive_link
+text model: https://drive.google.com/file/d/1WMl6dQc0YLM4YimRzf6uV4i13q-fM1c2/view?usp=drive_link

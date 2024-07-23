@@ -1,0 +1,6 @@
+clip-benchmark>=1.4.0
+open-clip-torch>=2.20.0
+torch==1.13.1
+torchvision==0.14.1
+tensorflow==2.16.0
+opencv-python==4.9.0.80
