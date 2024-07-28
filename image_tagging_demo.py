@@ -12,7 +12,7 @@ from embeddings import Embeddings
 import logging as log
 import sys
 from time import perf_counter
-from images_processer import open_images  
+from processing_images import open_images  
 
 log.basicConfig(format="%(levelname)s: %(message)s", level=log.INFO, stream=sys.stdout)
 path = os.path.abspath(os.path.dirname(__file__))
